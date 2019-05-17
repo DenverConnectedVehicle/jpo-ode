@@ -309,6 +309,7 @@ This section outlines the software technology stacks of the ODE.
 ### Continuous Integration
 
 - [TravisCI](https://travis-ci.org/)
+- Code coverage information available on [SonarCloud under "Coverage"](https://sonarcloud.io/component_measures?id=usdot.jpo.ode%3Ajpo-ode&metric=coverage)
 
 ### ODE Code
 
